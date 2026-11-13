@@ -1,5 +1,7 @@
 # MCP lab
 
+> **Este repositorio se ha movido.** El laboratorio vive ahora en [devexpert-io/article-labs](https://github.com/devexpert-io/article-labs/tree/main/2026-11-mcp), junto al resto de experimentos de los artículos. Esta copia queda archivada.
+
 Experimentos del artículo [MCP: qué es y cuándo compensa frente a una CLI o una skill](https://devexpert.io/blog/que-es-mcp) de DevExpert (noviembre de 2026): qué cuesta tener servidores MCP conectados y qué cambia al hacer la misma tarea con un servidor MCP, con una CLI y con una skill.
 
 Agentes medidos: Claude Code 2.1.319 (Opus 5.5), Codex CLI 0.167.0 (gpt-6.1-sol, razonamiento medio) y OpenCode con Qwen 3.8 27B alojado en OpenRouter, en dos versiones: la 2.2.6 (`opencode2` en los resultados) y la 1.19.5 (`opencode`), que es la que instalan `brew install opencode` y `npm i -g opencode-ai`.
